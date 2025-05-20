@@ -1,0 +1,16 @@
+# Ignore build directory
+/build/
+
+# Optional: ignore temporary files
+*.o
+*.obj
+*.exe
+*.out
+*.log
+*.tmp
+.idea/
+# CMake generated files
+CMakeFiles/
+cmake_install.cmake
+Makefile
+/cmake-build-debug/
