@@ -91,7 +91,7 @@ Signal handling improvements
 ## Building
 
 ```bash
-git clone https://github.com/HusseinAb22/minishell.git
+git clone https://github.com/HusseinAb22/MiniShell.git
 cd minishell
 mkdir build && cd build
 cmake ..
